@@ -5,7 +5,7 @@ Python 3.11
 fastapi
 
 ## To run in local
-uvicorn main:app --reload
+uvicorn TodoApp.main:app --reload
 
 ## To setup the application in local
 python -m venv fastapivenv
